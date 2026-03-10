@@ -1,5 +1,14 @@
 # @scalar/api-client-react
 
+## 1.4.5
+
+### Patch Changes
+
+#### Updated Dependencies
+
+- **@scalar/api-client@2.35.1**
+  - [#8394](https://github.com/scalar/scalar/pull/8394): chore: rollback export document button
+
 ## 1.4.4
 
 ### Patch Changes

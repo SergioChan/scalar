@@ -1,5 +1,11 @@
 # @scalar/api-client
 
+## 2.35.1
+
+### Patch Changes
+
+- [#8394](https://github.com/scalar/scalar/pull/8394): chore: rollback export document button
+
 ## 2.35.0
 
 ### Minor Changes
